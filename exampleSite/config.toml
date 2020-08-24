@@ -1,4 +1,4 @@
-baseURL = "https://theclickstudio-test.com"
+baseURL = "https://theclickstudio-test.netlify.com"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
