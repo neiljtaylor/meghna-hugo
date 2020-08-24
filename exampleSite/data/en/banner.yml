@@ -9,5 +9,5 @@ banner:
     it a confident statement about who you are and what you can do.  '
   button:
     enable: true
-    label: Explore Us
+    label: Click
     link: "#services"
