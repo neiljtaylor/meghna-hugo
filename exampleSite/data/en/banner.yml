@@ -4,9 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
-  title: "“A good first impression can work wonders”, JK Rowling "
-  content: 'Your clients are likely to meet you first through your website.  Make
-    it a confident statement about who you are and what you can do.  '
+  title: Your business, captured perfectly
+  content: "“A good first impression can work wonders”, JK Rowling "
   button:
     enable: true
     label: Click
