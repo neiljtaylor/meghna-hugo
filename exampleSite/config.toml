@@ -1,10 +1,10 @@
 baseURL = "https://theclickstudio-test.netlify.com"
-disableLanguages = []
+disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "The Click Studio"
 [Languages.en]
 contentDir = "content/english"
 copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
