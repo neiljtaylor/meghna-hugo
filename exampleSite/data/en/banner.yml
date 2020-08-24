@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: images/backgrounds/bg-testimonial.webp
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: images/backgrounds/bg-testimonial.webp
   icon: ''
   title: Your business, captured perfectly
   content: "“A good first impression can work wonders”, JK Rowling "
