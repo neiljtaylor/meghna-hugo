@@ -55,7 +55,7 @@ weight = 8
 author = "Themefisher"
 description = "Responsive Multipurpose Parallax HTML5 Template"
 google_analytics_id = ""
-logo = "/images/the-click-studio.png"
+logo = "/images/camera2.png"
 post_share = true
 [params.map]
 enable = true
